@@ -29,7 +29,7 @@
 .historia/
 
 # Extensiones de código de Visual Studio integradas
-*.vsix
+*.vsius x
 
 ### Parche de VisualStudioCode ###
 # Ignorar todo el historial local de archivos
